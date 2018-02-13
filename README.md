@@ -1,2 +1,4 @@
-# platform-project
-The Platform Project is a simple framework that allows website developers and webmasters to manage and maintain web-based projects and web applications.  If you find this tool useful, simply send us your suggestions and feedbacks to platform@entilda.com and support us and help us improve the source code.
+# Platform Project
+The Platform Project is a simple project that allows website developers and webmasters to manage and maintain web-based projects and web applications.  
+
+If you wish to contribute to this project, simply send us an [email](platform@entilda.com?subject="Contributing to The Platform Project") with suggestions to help us improve the source code.
